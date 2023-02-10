@@ -2,7 +2,7 @@
 - Unlock your Ice Station Z Framerate &amp; Vampire Slayer: The Resurrection Framerate.
 
 # Download:
-- [Download v1.0]()
+- [Download v1.0](https://github.com/Cracko298/ISZ-Universal-Unlocker/releases/download/v1.0-release-1/ISZ-Universal-Unlocker.zip)
 
 # Features:
 - Unlocks the FPS in-game.
