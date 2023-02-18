@@ -3,7 +3,8 @@
 
 # Download:
 
-
+- [FPS Unlocker + FPS Counter](https://github.com/Cracko298/ISZ-Universal-Unlocker/releases/download/v2.0-release-2/FPS-Unlocker-V2.zip).
+- [FPS Unlocker Only](https://github.com/Cracko298/ISZ-Universal-Unlocker/releases/download/v2.0-release-2/FPS-Unlocker-V1.zip).
 
 # Older Versions:
 
